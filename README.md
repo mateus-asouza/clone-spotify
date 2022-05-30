@@ -1,4 +1,4 @@
-## Clock :clock130:
+## Clone Spotify :notes:
 
 This is a clone of Spotify made with html, css and javascript.
 
